@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![hchakoub's 42 stats](https://badge42.vercel.app/api/v2/cladw0qna00350gmlw1f6rnit/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
+
 
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center" href="https://github.com/iimyzf?tab=repositories">
