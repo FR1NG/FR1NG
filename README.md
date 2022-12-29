@@ -20,3 +20,6 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FR1NG&show_icons=true&theme=radical"/> &nbsp; &nbsp;
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FR1NG&theme=radical">
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FR1NG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
